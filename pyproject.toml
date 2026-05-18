@@ -1,0 +1,17 @@
+[project]
+name = "manga-text-extractor"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fugashi>=1.5.2",
+    "huggingface-hub>=1.15.0",
+    "opencv-python>=4.13.0.92",
+    "pyqt6>=6.11.0",
+    "torch>=2.12.0",
+    "torchvision>=0.27.0",
+    "transformers>=5.8.1",
+    "ultralytics>=8.4.51",
+    "unidic-lite>=1.0.8",
+]
