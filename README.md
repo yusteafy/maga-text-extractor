@@ -2,7 +2,7 @@
 
 An automated tool to recognize Japanese text within manga from an entire image files or folder and export the results to a text file.
 
-## Data Sources
+## Model used
 
 *   **Speech Bubble Detection:** Fine-tuned YOLOv8m model trained to detect speech bubbles across Manga, Webtoon, Manhua, and Western Comic style images.
 
@@ -20,7 +20,7 @@ An automated tool to recognize Japanese text within manga from an entire image f
 **[Demo Notebook & Live Output](sample.ipynb)**
 
 
-## GUI App
+## Run with GUI
 
 ![GUI App](02.png)
 
